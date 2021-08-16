@@ -34,7 +34,7 @@ Some characters don't work completely at the moment. For example Caustic in the 
 
 ## Can I play solos-duos?
 Yes! That's up to you. You could even have 20 players in 1 squad.
-</br>See: [Hosting a server](servers/hosting)
+<br>See: [Hosting a server](servers/hosting)</br>
 
 ## Can I play new Apex maps?
 No, Current playable map list:
@@ -53,14 +53,14 @@ We suggest not using your main account for this. You need an origin account with
 
 ## Are there bugs?
 There is shit-ton of bugs still persisting YOU WILL CRASH GURANTEED. You can follow our [Trello](https://trello.com/b/ymr4R3j9/apexmod-s3n1094) page for tracking what bugs have been reported and fixed at this time.
-</br>See Also: [Why do I crash when connecting to a Server?](#why-do-i-crash-when-connecting-to-a-server)
+<br>See Also: [Why do I crash when connecting to a Server?](#why-do-i-crash-when-connecting-to-a-server)</br>
 
 ## Can I contribute?
 Everyone can, please open pull requests and issues on our github projects we would love any help we could get!
 
 ## Can I play alone on a server?
 Yes you can, and even disable the ring to practice certain maps.
-</br>See: [Hosting a server](servers/hosting)
+<br>See: [Hosting a server](servers/hosting)</br>
 
 ## Why do I crash when connecting to a Server?
 Certain scenarios cause this.
